@@ -1,0 +1,9 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "human_python",
+      "Access-Control-Allow-Origin": "*",
+      "Content-type": "text/plain; charset=UTF-8"
+    }
+  }
+}
