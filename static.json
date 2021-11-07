@@ -2,7 +2,7 @@
   "headers": {
     "/*": {
       "X-Author": "human_python",
-      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
